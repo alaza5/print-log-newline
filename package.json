@@ -1,6 +1,6 @@
 {
-  "name": "print-logger-shortcut",
-  "displayName": "print_logger_shortcut",
+  "name": "print-log-newline",
+  "displayName": "Insert print/log newline",
   "description": "insert selected thing for printing/logging",
   "version": "1.0.0",
   "engines": {
@@ -71,6 +71,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/alaza5/print-logger-shortcut"
+    "url": "https://github.com/alaza5/print-log-newline"
   }
 }
